@@ -10,28 +10,17 @@ I'm adding file upload to my OpenChat assistant, so it can read a document and a
 
 ## Projects
 
-### Main Projects
-
 | Project | Description | Tech Stack |
 |---|---|---|
 | **[OpenChat AI Assistant](https://github.com/MinahilIrfan98/Full-stack-AI-application)** | One app for text chat, image chat and live voice. Runs local models through Ollama with a cloud fallback, streams responses over SSE, and is getting file upload with Gemini File Search (RAG) | `Next.js` `FastAPI` `Python` `LiveKit` `Ollama` `Gemini` `SSE` |
-| **[AI Voice Agent](https://ai-voice-agent-mu-seven.vercel.app)** | Real-time voice agent you can talk to in the browser, with live captions as you speak. Agent worker runs on LiveKit Cloud | `Python` `LiveKit` `Deepgram Nova-3` `FastAPI` `JavaScript` `Vercel` |
-| **CyberGuard** | Final Year Project, an AI-driven threat intelligence and incident response platform. I designed the UI/UX and wrote the full SRS and the first three thesis chapters | `Figma` `UI/UX` `SRS` |
-| **[Pixel AI Chatbot](https://pixel-aii.streamlit.app)** | Chatbot that runs on a local Ollama model or on Groq in the cloud | `Python` `Streamlit` `Ollama` `Groq` |
-
-### Other Projects
-
-| Project | Description | Tech Stack |
-|---|---|---|
+| **[AI Voice Agent](https://github.com/MinahilIrfan98/AI-Voice-Agent)** | Real-time voice agent you can talk to in the browser, with live captions as you speak. Agent worker runs on LiveKit Cloud. [Live demo](https://ai-voice-agent-mu-seven.vercel.app) | `Python` `LiveKit` `Deepgram Nova-3` `FastAPI` `JavaScript` `Vercel` |
+| **[Pixel AI Chatbot](https://github.com/MinahilIrfan98/AI-Chatbot)** | Chatbot that runs on a local Ollama model or on Groq in the cloud. [Live demo](https://pixel-aii.streamlit.app) | `Python` `Streamlit` `Ollama` `Groq` |
 | **Twitter Sentiment Analysis** | Classifies tweets as positive or negative and compares two models on the same features | `Python` `scikit-learn` `pandas` `Logistic Regression` `Random Forest` |
-| **Rolling Quest** | 3D Unity game where you roll a ball around a floating platform collecting coins, and lose if you fall off. Semester 6 game development final project | `C#` `Unity` |
-| **Hangman with DBMS** | Console Hangman game extended with a database: login and register forms, a dashboard and stored records | `C++` `MS Access` |
-| **Payroll Calculation System** | Calculates pay for salaried and commission employees using inheritance and polymorphism | `C++` `OOP` |
 
 ## Tech Stack
 
-`Python` `FastAPI` `Next.js` `JavaScript` `C++` `C#` `SQL` `Git` `Ollama` `LiveKit` `scikit-learn` `pandas` `Figma`
+`Python` `FastAPI` `Next.js` `JavaScript` `Git` `Ollama` `LiveKit` `scikit-learn` `pandas` `Figma`
 
 ## Contact
 
-[LinkedIn](https://linkedin.com/in/your-handle) · your.email@example.com
+[LinkedIn](https://www.linkedin.com/in/minahilirfan/?isSelfProfile=true) · iminahil2004@gmail.com
